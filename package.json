@@ -1,0 +1,16 @@
+{
+  "name": "tobiibot",
+  "version": "1.0.0",
+  "main": "tobiibot.js",
+  "bin": "tobiibot.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pkg": "^5.8.1",
+    "tiktok-live-connector": "^1.2.3",
+    "ws": "^8.18.1"
+  },
+  "description": ""
+}
